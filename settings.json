@@ -1,0 +1,76 @@
+{
+  "vscode_custom_css.imports": [
+    "file:///Users/nguyendinhson/Documents/Custom%20/style.css"
+  ],
+  "editor.wordWrapColumn": 120,
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "turboConsoleLog.logMessagePrefix": "",
+  "turboConsoleLog.addSemicolonInTheEnd": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    ".*Class",
+    ".*ClassName"
+  ],
+  "terminal.integrated.fontFamily": "monospace",
+  "settingsSync.keybindingsPerPlatform": false,
+  "search.followSymlinks": false,
+  "editor.accessibilitySupport": "off",
+  "workbench.settings.applyToAllProfiles": [
+    "prettier.configPath"
+  ],
+  "editor.tabCompletion": "on",
+  "explorer.confirmDelete": false,
+  "editor.renderWhitespace": "all",
+  "editor.fontLigatures": true,
+  "workbench.tree.indent": 20,
+  "workbench.colorTheme": "Outrun Electric Meets Synthwave",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "\"Fira Code\",\"mononoki Nerd Font\", Menlo, Monaco, 'Courier New', monospace",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.lineHeight": 2.5,
+  "editor.fontWeight": "normal",
+  "editor.cursorStyle": "block-outline",
+  "window.zoomLevel": 0,
+  "terminal.external.linuxExec": "iterm",
+  "terminal.integrated.fontSize": 20,
+  "workbench.iconTheme": "bearded-icons",
+  "editor.wordWrap": "on",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "githubPullRequests.pullBranch": "never",
+  "git.openRepositoryInParentFolders": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.enablePreview": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "gitlens.graph.minimap.additionalTypes": [
+    "stashes",
+    "localBranches"
+  ],
+  "editor.accessibilityPageSize": 5,
+  "workbench.preferredHighContrastColorTheme": "Kimbie Dark",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "editor.tabSize": 2
+}
